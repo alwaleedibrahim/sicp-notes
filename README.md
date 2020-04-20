@@ -6,3 +6,7 @@ Structure and Interpretation of Computer Programs is a computer science textbook
 
 ## Why SICP matters
 [Why Structure and Interpretation of Computer Programs matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
+
+## Table of contents
+
+- [1.1](/1.1.md)
